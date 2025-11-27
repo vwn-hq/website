@@ -2,7 +2,7 @@
   "name": "TEST Brain",
   "symbol": "TESTED",
   "description": "A IRL test for ultimate supply rotting memecoin on Solana. The only cure is HODL.",
-  "image": "https://rotted.meme/rottedbrain.png",
+  "image": "https://rotted.meme/rottedbrain_test.png",
   "decimals": 9,
   "extensions": {
     "website": "https://rotted.meme",
