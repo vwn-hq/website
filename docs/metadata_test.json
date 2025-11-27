@@ -3,9 +3,10 @@
 "symbol": "TESTED",
 "description": "The ultimate supply rotting memecoin on Solana. 10B Supply, 1% Tx Tax (0.1% till $100M MC) = 100% Burn forever. Features Brainrot Meme Generator with leaderboard rewards and 15% supply vest for mental health support. The only cure is HODL."
 "image": "https://rotted.meme/rottedbrain.png",
+"decimals": 9,
   "extensions": {
     "website": "https://rotted.meme",
-    "twitter": "https://x.com/ROTTED_on_Sol",
+    "twitter": "https://twitter.com/ROTTED_on_Sol",
     "telegram": "https://t.me/ROTTED_on_Sol"
   }
 }
